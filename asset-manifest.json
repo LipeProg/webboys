@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/webboys/static/css/main.e6c13ad2.css",
-    "main.js": "/webboys/static/js/main.b3913d51.js",
+    "main.js": "/webboys/static/js/main.dc7ce0e7.js",
     "static/js/453.260acce4.chunk.js": "/webboys/static/js/453.260acce4.chunk.js",
     "static/media/Logo-Site.png": "/webboys/static/media/Logo-Site.de36068abbd7a8f0ea1a.png",
     "index.html": "/webboys/index.html",
     "main.e6c13ad2.css.map": "/webboys/static/css/main.e6c13ad2.css.map",
-    "main.b3913d51.js.map": "/webboys/static/js/main.b3913d51.js.map",
+    "main.dc7ce0e7.js.map": "/webboys/static/js/main.dc7ce0e7.js.map",
     "453.260acce4.chunk.js.map": "/webboys/static/js/453.260acce4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b3913d51.js"
+    "static/js/main.dc7ce0e7.js"
   ]
 }
