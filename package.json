@@ -2,7 +2,7 @@
   "name": "webboys",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LipeProg.github.io/webboys/",
+  "homepage": "https://lipeprog.github.io/webboys/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
