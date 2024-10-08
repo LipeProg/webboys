@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/your-app-name/static/css/main.e6c13ad2.css",
-    "main.js": "/your-app-name/static/js/main.95a3691b.js",
-    "static/js/453.260acce4.chunk.js": "/your-app-name/static/js/453.260acce4.chunk.js",
-    "static/media/Logo-Site.png": "/your-app-name/static/media/Logo-Site.de36068abbd7a8f0ea1a.png",
-    "index.html": "/your-app-name/index.html",
-    "main.e6c13ad2.css.map": "/your-app-name/static/css/main.e6c13ad2.css.map",
-    "main.95a3691b.js.map": "/your-app-name/static/js/main.95a3691b.js.map",
-    "453.260acce4.chunk.js.map": "/your-app-name/static/js/453.260acce4.chunk.js.map"
+    "main.css": "/webboys/static/css/main.e6c13ad2.css",
+    "main.js": "/webboys/static/js/main.b3913d51.js",
+    "static/js/453.260acce4.chunk.js": "/webboys/static/js/453.260acce4.chunk.js",
+    "static/media/Logo-Site.png": "/webboys/static/media/Logo-Site.de36068abbd7a8f0ea1a.png",
+    "index.html": "/webboys/index.html",
+    "main.e6c13ad2.css.map": "/webboys/static/css/main.e6c13ad2.css.map",
+    "main.b3913d51.js.map": "/webboys/static/js/main.b3913d51.js.map",
+    "453.260acce4.chunk.js.map": "/webboys/static/js/453.260acce4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.95a3691b.js"
+    "static/js/main.b3913d51.js"
   ]
 }
